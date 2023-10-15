@@ -1,0 +1,14 @@
+{
+  "end_chat": "Avslutt samtale",
+  "restart_chat": "Start på nytt",
+  "change_language": "Endre språk",
+  "delete_chat": "Slett samtale",
+  "download_chat": "Last ned samtale",
+  "cancel": "Avbryt",
+  "return_to_chat": "Tilbake til samtalen",
+  "talking_to_agent": "Du snakker med et menneske. Returner til robot",
+  "here": "Her",
+  "english": "Engelsk",
+  "norwegian": "Norsk",
+  "back": "Gå tilbake"
+}

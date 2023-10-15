@@ -1,0 +1,14 @@
+{
+  "end_chat": "End chat",
+  "restart_chat": "Restart chat",
+  "change_language": "Change language",
+  "delete_chat": "Delete chat",
+  "download_chat": "Download chat",
+  "cancel": "Cancel",
+  "return_to_chat": "Return to chat",
+  "talking_to_agent": "You are talking to an agent. Return to robot",
+  "here": "Here",
+  "english": "English",
+  "norwegian": "Norwegian",
+  "back": "Go back"
+}

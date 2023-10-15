@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "seilvind-voiceflow-drive",
+  "private_key_id": "b47796095fd9744ab1c9fb543ac35f14b21d4a83",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCm1AmX8TWCJA+l\nnRWNfXjPjyeS7OOljj4tlykG3A4//t7z17p0bveRZ8r9XHhSrX1f//J5c5UVS6oF\ngf5p7dzGOw/iqb3XIQ4C8lQCwLGTJybbO0T4eekg+ufXGu5E+w9pDm/JBriIelty\n2/C2NkQo5Jp/2cIKe9ME60UxCRBcLrd0YZH0Haa067YmI6nVvJO7RLKS7p8+XsPW\n9a7TY0C6HWzYsMK8t/YK6mMeWHOhSruHofk/0pPTeke/5l/Df1ZNpPIh16eZfAxg\n4vSpiXYhvAj7hx4SD2IWE9UXy2AOnuYkPsueQ+Zwqm1Oz9hzJ7ceEVE7rRkh6IIS\nAYfILTj3AgMBAAECggEAHkjVqQB/ny1ercjTVckWOk+ZdoGMXcxxmyMaroUaDSH+\nZTOfRG20gW/fGJlFunSGEvxKjyOdR61hovhTL/WfI1krbBE2RixY98331DwYwEbW\nNewPfC/dU0BY/+KCqIEO7hpRzqNqslPL8BDfJKS7QNUm+tiT8gVCbF0tRVaI4sLJ\nLwQSnFYVxAMrFPvAgwdlUJwRFwJFb6koPU5EysO/Nmy9OHFVTwQ3XzHV3rhBjsqV\nuOLdT+nzyt7K8BjdtMgyX11QSiIelxm+LtPJGDH4AbQd2w0KkyN4vdnnB1Tm1WMI\nrui8JyNMRQIMgQLXy4SaTWRz3Rpu0DtCdBnWUPHAGQKBgQDXwOdFzjsTEORX5PB3\nao8i1lCm4lx5N0T0Uq2YUkQhEgOH2hzz2YwQSiqz539vlDiiU6ALdpSb+nnmpa48\nyk49Hw+xJbibimrbdpCQpT13KdEq/A0eITl2FnR8/quUevsUmWQ74yymdh+MISUx\nBGVd9u1wK2TdRmes4rs/8CGLEwKBgQDF8sG5TNbY4jehj1Bi4clwdsBSog9aNd5F\nuhDT1z8kmiMRnnHFoIpU7YB2i5rCGOcNJJaHMWI1+VodFheQA0kseLgp3Wf/yfGu\nvZCk317c6ZVzOM2E8JkSSy4N5iDCjfDD9zsnkJVAL/GCdGkSPYn0D7DWmAh0x6P6\nfTpkylZTDQKBgAxWt+NCHBbHDIgKS8ZIjc8MOqiQoYE9K/BdGhhv+/14LkOCsc0w\nT9ZOp4qKXrte2q5N4gVFztHszTPnncNUPo04TYlwAtLCY8IRUcsz6AP8nD29FHL4\nq3SZbCgJ2H4xWlKfQyA5qcALWVqGOr5G5hUtnf6gPLB66kr03IiXjxOJAoGBAJLd\n/7Ate8blaSM8wwbqwVvpL97fkQZ8q1MOr4eNz7Knjld3OLDJ4XkL0mGiSQu0EFIn\nEGx0Tor/XEXyaz8VwQf29aVSOeSGAASHb7d0Z9z+jj00KwB0xw3Uq/HyCeJwD/BG\nEiTT2HkMWWNSXdcDw8RKlAlUOgnzSg4DNf0sRwpNAoGAaXkIDGCC2zGmDxzjvlZz\nlPaUkisJgb/nCYXLRXsbUi9qpM4PzouL8lSHWOLqmYPtdqrWiMigeVolcqnd7NrR\ny/MW8gIi62JQIwc1JUXYLmqAG9B2Th6z9Ll9pFRhW/WO3rjD8u0/ZFYEj7Wa/w7N\nI3k9KO+T7US1p+rc7/abi5M=\n-----END PRIVATE KEY-----\n",
+  "client_email": "seilvindvoiceflowdrive@seilvind-voiceflow-drive.iam.gserviceaccount.com",
+  "client_id": "107687129572713958803",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/seilvindvoiceflowdrive%40seilvind-voiceflow-drive.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
